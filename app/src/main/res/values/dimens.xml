@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="button_main_create_20dp">20dp</dimen>
+    <dimen name="linearlayout_row_padding_10dp">10dp</dimen>
+    <dimen name="cardview_row_margin_5dp">5dp</dimen>
+    <dimen name="linearlayout_row_margin_5dp">5dp</dimen>
+    <dimen name="layout_details_student_margin_20dp">20dp</dimen>
+    <dimen name="button_main_margin_5dp">5dp</dimen>
+    <dimen name="text_size_20sp">20sp</dimen>
+    <dimen name="text_size_30sp">30sp</dimen>
+</resources>
